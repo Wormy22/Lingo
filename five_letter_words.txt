@@ -43,7 +43,6 @@ agone
 agony
 agree
 ahead
-ain't
 aisle
 alarm
 album
@@ -381,7 +380,6 @@ canna
 canny
 canoe
 canon
-can't
 canto
 caper
 caret
@@ -591,7 +589,6 @@ daisy
 dally
 dance
 dandy
-d'art
 dater
 datum
 daunt
@@ -646,7 +643,6 @@ dogma
 dolce
 dolly
 donor
-don't
 doubt
 douce
 dough
@@ -1049,7 +1045,6 @@ hedge
 hefty
 heigh
 helix
-he'll
 hello
 hence
 henry
@@ -1127,10 +1122,8 @@ ionic
 irate
 irony
 islet
-isn't
 issue
 itchy
-it'll
 ivory
 jazzy
 jelly
@@ -1848,7 +1841,6 @@ shave
 shawl
 sheaf
 shear
-she'd
 sheen
 sheep
 sheer
@@ -2400,10 +2392,7 @@ wedge
 weedy
 weigh
 weird
-we'll
 welsh
-we're
-we've
 whack
 whale
 wharf
@@ -2420,7 +2409,6 @@ whine
 whirl
 whisk
 white
-who'd
 whole
 whoop
 whore
@@ -2442,7 +2430,6 @@ witty
 wolve
 woman
 women
-won't
 woody
 wordy
 world
@@ -2473,7 +2460,6 @@ yeast
 yield
 yodel
 yokel
-you'd
 young
 youth
 yucca

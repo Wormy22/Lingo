@@ -438,7 +438,6 @@ eddy
 edge
 edgy
 edit
-e'er
 elan
 else
 emit
@@ -671,7 +670,6 @@ heap
 hear
 heat
 heck
-he'd
 heed
 heel
 heft
@@ -754,7 +752,6 @@ iris
 iron
 isle
 itch
-it'd
 item
 jack
 jade
@@ -1058,7 +1055,6 @@ numb
 oath
 obey
 oboe
-o'er
 ogle
 ogre
 oily
@@ -1702,7 +1698,6 @@ weak
 weal
 wean
 wear
-we'd
 weed
 week
 weep
