@@ -25,7 +25,7 @@ def guess_at_answer(answer):
         print("Enter your guess:")
         guess = input()
         try:
-            result = logic.check_guess(guess, answer)
+            result = logic.check_guess(guess.upper(), answer)
 
             print(" ".join(result))
             if all(r == logic.CORRECT for r in result):

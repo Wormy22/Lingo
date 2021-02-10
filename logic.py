@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
-import random
 import datetime
+import os
+import random
 
 CORRECT = "green"
 WRONG_POSITION = "orange"
 NOT_PRESENT = "-"
 
-# TODO - get better word lists
-WORD_LISTS = {4: "four_letter_words.txt",
-              5: "five_letter_words.txt"}
-
 valid_words = {4: [],
                5: []}
+
+# TODO - Currently using same list of words for possible answers and checking validity - should have a wider set for checking validity
 
 
 class LingoException(Exception):
@@ -26,7 +25,7 @@ def initialise():
 
 
 def load_words_from_file(num_letters):
-    with open(WORD_LISTS[num_letters], "r") as f:
+    with open(os.path.join("word_lists", f"{num_letters}.txt"), "r") as f:
         return f.read().splitlines()
 
 
